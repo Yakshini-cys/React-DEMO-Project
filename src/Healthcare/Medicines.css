@@ -1,0 +1,67 @@
+.EmptyHealthRecords_emptyHealthRecordsContainer__Xx_fR {
+    height: 540px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #666;
+    padding-top: 20px;
+    }
+    .Row{
+      padding-left: 200px;
+      padding-top: 30px;
+      padding-bottom: 20px;
+    }
+    .Nav{
+    
+    background-color: black;
+    }
+    #im{
+      display:inline;
+      padding:5px;
+    }
+    .hlo{
+      height: 15%;
+      width: 15%;
+      margin-left: 5%;
+      margin-right:100px;
+    }
+    #il{
+      display:inline;
+      padding-left: 180px;
+      padding-right: 100px;
+    }
+    .baby{
+      margin-left: 60px;
+      height: 350px;
+      width:300px;
+      border-radius: 10px;
+      background-color: rgb(225, 222, 227);
+    }
+    .hl{
+      height:120px;
+    }
+    .Add{
+        
+      margin: 0;
+      box-sizing: inherit;
+      font-weight: 600; 
+      display: flex;
+      background: #106c89;
+      border: 1px solid #c1a8df;
+      color: #fff;
+      height: 35px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 20px;
+      min-width: 120px;
+      justify-content: center;
+     
+    }
